@@ -1,0 +1,5 @@
+discipline  parameterCategory   parameterNumber cf_standard_name    cf_table_version
+0           0                   0               air_temperature     86
+0           1                   1               relative_humidity   86
+0           2                   2               eastward_wind       86
+0           2                   3               northward_wind      86
