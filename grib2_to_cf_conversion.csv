@@ -1,5 +1,12 @@
-discipline  parameterCategory   parameterNumber cf_standard_name    cf_table_version
-0           0                   0               air_temperature     86
-0           1                   1               relative_humidity   86
-0           2                   2               eastward_wind       86
-0           2                   3               northward_wind      86
+discipline  parameterCategory   parameterNumber level   levelType   cf_standard_name                        cf_table_version
+0           0                   0                                   air_temperature                         86
+0           1                   1                                   relative_humidity                       86
+0           2                   0                                   wind_from_direction                     86
+0           2                   2                                   eastward_wind                           86
+0           2                   3                                   northward_wind                          86
+0           2                   23                                  x_wind_gust                             86
+0           2                   24                                  y_wind_gust                             86
+0           3                   0               0       102         air_pressure_at_mean_sea_level          86
+0           3                   0                       103         air_pressure                            86
+0           6                   32                                  cloud_area_fraction                     86
+0           19                  0                                   visibility_in_air                       86
