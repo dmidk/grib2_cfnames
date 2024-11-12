@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Add workflow to check if changelog have been updated [!3](https://github.com/dmidk/grib2_cfnames/pull/2) - kah@dmi.dk
 - Add surface variables to the table. [!2](https://github.com/dmidk/grib2_cfnames/pull/2) - kah@dmi.dk
 
 ## [v0.1.0]
